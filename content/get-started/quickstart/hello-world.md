@@ -1,3 +1,4 @@
+![20210624_142852](https://user-images.githubusercontent.com/95667481/144959764-50a13e5a-698b-42f1-898d-4fde8f252b42.jpg)
 ---
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
